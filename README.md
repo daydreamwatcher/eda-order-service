@@ -4,7 +4,7 @@ Return to main: https://github.com/alexandr-leonov/eda-configuration
 <br>
 <br>
 
-Service processing buy orders.
+Service processing buy orders (forked for local CD testing purpose).
 
 Service handle and send events by Kafka, has REST endpoints for operate data, store Order state to PostgreSQL.
 
